@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yanell, an <a href="www.linkedin.com/in/yanell-ramirez">IT Professional</a>☺</h1>
+<h1>Hi, I'm Yanell, an <a href="www.linkedin.com/in/yanell-ramirez">IT Professional</a></h1>
 
 <h2> Information Technology Projects:</h2>
 
